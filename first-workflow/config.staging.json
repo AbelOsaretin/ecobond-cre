@@ -1,0 +1,8 @@
+{
+  "schedule": "0 0 */6 * * *",
+  "apiUrl": "http://localhost:5000/api/solar/statistics",
+  "webhookUrl": "https://webhook.site/7367b00c-4f37-4163-97c2-4aaa95c29fe7",
+  "chainSelectorName": "ethereum-testnet-sepolia",
+  "consumerAddress": "0xE1B4C15D27Ae552FAF14A08C3b27DD46E780EA0F",
+  "gasLimit": "500000"
+}
